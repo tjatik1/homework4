@@ -1,0 +1,80 @@
+h1{
+    margin: 0;
+   padding: 0;
+   color: #20f;
+   font-size: 50px;
+}
+p{
+    margin: 20px;
+    padding: 20px;
+    background-color: #f00;
+    border: 5px solid;
+    border-radius: 18px;
+    border-color: #ff00f7;
+    font-size: 30px;
+    color: #fff;
+    list-style: none;
+    width: auto;
+    text-align: center;
+}
+
+body{
+    background-image:url(1642920139_1-damion-club-p-bolshie-begemoti-1.jpg);
+}
+
+h2{
+    margin: 0;
+    padding: 0;
+    color: #ff00f7;
+    font-size: 50px;
+}
+
+p:hover{
+    scale:1.03;
+}
+
+h3{
+    margin: 0;
+    padding: 0;
+    color: #f90;
+    font-size: 50px;
+}
+.one{
+    color:#000000;
+}
+
+ul{
+    margin: 20px;
+    padding: 20px;
+    background-color: #0008ff;
+    border: 5px solid;
+    border-radius: 18px;
+    border-color: #ff6a00;
+    font-size: 30px;
+    color: #fff;
+    list-style: none;
+    width: auto;
+    text-align: center;
+}
+
+ul:hover{
+    scale:1.03;
+}
+
+li{ margin: 20px;
+    padding: 20px;
+    background-color: #00ff09;
+    border: 5px solid;
+    border-radius: 18px;
+    border-color: #0ef;
+    font-size: 30px;
+    color: #fff;
+    list-style: none;
+    width: auto;
+    text-align: center;
+
+}
+
+li:hover{
+    scale:1.03;
+}
